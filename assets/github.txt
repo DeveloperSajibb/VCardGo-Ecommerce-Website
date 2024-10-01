@@ -1,0 +1,6 @@
+git init
+git add .
+git commit -m "Github Instructions"
+git branch -M main
+git remote add origin https://github.com/DeveloperSajibb/VCardGo-Ecommerce-Website.git
+git push -u origin main
